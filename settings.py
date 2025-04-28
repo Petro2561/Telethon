@@ -1,0 +1,36 @@
+import socks
+
+PROXIES = [
+    (socks.SOCKS5, "pool.infatica.io", 10000, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10001, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10002, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10003, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10004, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10005, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10006, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10007, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10008, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10009, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10010, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10011, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10012, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10013, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10014, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10015, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10016, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10017, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10018, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10019, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10020, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10021, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10022, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10023, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10024, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10025, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10026, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10027, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10028, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+    (socks.SOCKS5, "pool.infatica.io", 10029, True, "BiPSTBbGz8my9X3jK1s1", "RNW78Fm5"),
+]
+
+BOT_USERNAME = '@SpamBot'
